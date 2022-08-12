@@ -1,7 +1,8 @@
 <?php
 /**
- * @author : Mari Doucet
+ * @author : Gaellan
  */
+
 require "./controllers/HomeController.php";
 require "./controllers/BlogController.php";
 require "./services/Router.php";

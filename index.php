@@ -1,6 +1,6 @@
 <?php
 /**
- * @author : Mari Doucet
+ * @author : Gaellan
  */
 
 require "autoload.php";
